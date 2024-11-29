@@ -1,6 +1,5 @@
 package com.EcomWeb.ECommerceWeb.Controller;
 
-import com.EcomWeb.ECommerceWeb.Entity.Product;
 import com.EcomWeb.ECommerceWeb.Entity.ProductDTO;
 import com.EcomWeb.ECommerceWeb.Services.ProductServices;
 import org.springframework.beans.factory.annotation.Autowired;
